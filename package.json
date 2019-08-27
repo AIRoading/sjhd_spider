@@ -1,0 +1,23 @@
+{
+  "name": "sjhd_spider",
+  "version": "1.0.0",
+  "description": "商家活动爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIRoading/sjhd_spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AIRoading/sjhd_spider/issues"
+  },
+  "homepage": "https://github.com/AIRoading/sjhd_spider#readme",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}
